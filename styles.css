@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5e6ff; /* Fondo morado claro */
+    color: #4a0072; /* Texto morado oscuro */
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #6a1b9a; /* Título morado medio */
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ba68c8; /* Botón morado */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #9c27b0;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #6a1b9a;
+    border-radius: 5px;
+  }
